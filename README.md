@@ -18,3 +18,4 @@ The directory structure for the data is done in the following way:
     |   ├── Normal_data_TEST             
     |   |   ├── TEST                     # Test Covid negative images
     
+There are three notebooks. One trains the GAN, one trains and evaluates the CNN and the last one is used to create images using the GAN.
