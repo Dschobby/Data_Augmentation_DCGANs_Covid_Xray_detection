@@ -4,7 +4,6 @@ To study the efficiency of data augmentation in this case, we used a deep Convol
 
 The directory structure for the data is done in the following way:
 
-    .
     ├── data                   
     |   ├── COVID_data                   
     |   |   ├── COVID                    # Training Covid positive images
