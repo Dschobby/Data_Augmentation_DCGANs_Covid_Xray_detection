@@ -3,7 +3,6 @@ In this Project we apply and assess data augmentation via Generative Adversarial
 To study the efficiency of data augmentation in this case, we used a deep Convolutional Neural Network (CNN) to classify the  images.
 
 The directory structure for the data is done in the following way:
-
     .
     ├── datasets                   
     |   ├── <dataset_name>         # i.e. brucewayne2batman
